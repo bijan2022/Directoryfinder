@@ -1,4 +1,4 @@
-# nscan-analyser
+# Directoryfinder
 
 **Directoryfinder** is a tool designed for the analysis of website directories.
 
@@ -30,6 +30,6 @@ sudo chmod +x main.sh
 # Activate the tool’s scanning feature: 
 ./main.sh
 ```
-you can save the results into a file by choosing the save results option.
+
 # video guide
 
