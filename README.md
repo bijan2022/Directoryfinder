@@ -31,5 +31,4 @@ sudo chmod +x main.sh
 ./main.sh
 ```
 
-# video guide
 
